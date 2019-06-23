@@ -31,6 +31,7 @@
 }
 main{
     background: transparent !important;
+    padding: 5em !important;
 }
 i{
     color: #BCBCCB !important;

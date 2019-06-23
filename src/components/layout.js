@@ -1,7 +1,7 @@
 import React from "react"
 import Header from "./Header"
 import Dash from "./Dash"
-import { Layout, Menu, Icon, Row, Col } from "antd"
+import { Layout, Menu, Icon, Affix } from "antd"
 
 const { Content, Sider } = Layout
 
@@ -22,10 +22,12 @@ export default class SiderDemo extends React.Component {
 	render() {
 		return (
 			<Layout>
-				<Header
-					isCollapsed={this.state.collapsed}
-					toggle={this.toggle}
-				/>
+				 <Affix offsetTop={0}>
+					<Header
+						isCollapsed={this.state.collapsed}
+						toggle={this.toggle}
+					/>
+				</Affix>
 				<Layout style={{ minHeight: "100vh" }}>
 					<Sider
 						width={200}

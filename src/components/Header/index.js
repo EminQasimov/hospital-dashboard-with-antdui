@@ -29,8 +29,6 @@ function Bell() {
   )
 }
 
-const { Option } = Select
-
 class Account extends React.Component {
   handleChange = value => {
     console.log(value)
