@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49fae269ce15e7f24a772c0cc0216a0f",
+    "revision": "b49cdbae18071daf5a8368da73b12eb7",
     "url": "/hospital-dashboard-with-antdui/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-dashboard-with-antdui/static/css/2.ad5be608.chunk.css"
   },
   {
-    "revision": "2dcf3aaa5258d74495ed",
-    "url": "/hospital-dashboard-with-antdui/static/css/main.aba494c9.chunk.css"
+    "revision": "fd442eaba76d4a05d506",
+    "url": "/hospital-dashboard-with-antdui/static/css/main.6ae03efb.chunk.css"
   },
   {
     "revision": "ff93580b6e5e39f7aa81",
     "url": "/hospital-dashboard-with-antdui/static/js/2.7131ccea.chunk.js"
   },
   {
-    "revision": "2dcf3aaa5258d74495ed",
-    "url": "/hospital-dashboard-with-antdui/static/js/main.e28ed630.chunk.js"
+    "revision": "fd442eaba76d4a05d506",
+    "url": "/hospital-dashboard-with-antdui/static/js/main.7331ddfd.chunk.js"
   },
   {
     "revision": "54798ea18a8b797bec99",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hospital-dashboard-with-antdui/precache-manifest.4aa4d2052683705b48ce79aae049cd82.js"
+  "/hospital-dashboard-with-antdui/precache-manifest.a816a01830739c32435354995226e2dd.js"
 );
 
 self.addEventListener('message', (event) => {
